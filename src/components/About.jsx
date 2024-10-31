@@ -21,7 +21,7 @@ const About = () => {
                     construction
                 </motion.h1>
                 <div className='w-[120px] h-[6px] bg-yellow-500'></div>
-                <p className='text-3xl italic text-gray-50 mt-[60px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto aut porro facilis?</p>
+                <p className='text-3xl italic text-gray-50 mt-[60px]'>A building company dedicated to transforming visions into reality, combining expertise with quality craftsmanship</p>
                
             </motion.div>
             <motion.div
@@ -29,7 +29,7 @@ const About = () => {
                 whileInView='visible'
                 variants={slideUpVariants}
                 className='lg:w-[40%] w-full flex flex-col justify-center items-start gap-6'>
-                  <p className='text-white text-lg text-justify'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore repellendus officiis optio laborum dolorum recusandae asperiores maxime esse pariatur dignissimos delectus, tenetur beatae quis magni ea voluptatibus ratione modi architecto blanditiis quae quisquam aliquam quod! Ea expedita iste consequuntur sed, quaerat ducimus dolores aliquam nesciunt praesentium id, assumenda iure est.</p>
+                  <p className='text-white text-lg text-justify'>Our building company is committed to turning dreams into reality by providing top-notch construction and renovation services. We work closely with clients from concept through completion, ensuring every detail aligns with their vision and standards. With a team of experienced professionals, we handle all aspects of building, from meticulous planning and innovative design to robust construction and flawless finishing. Quality, safety, and customer satisfaction are at the core of our work, using the best materials and practices to deliver lasting results. Whether creating new spaces or enhancing existing ones, we build with excellence, dedication, and integrity.</p>
                 
                 <motion.button
                 variants={zoomInVariants}
