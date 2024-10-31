@@ -31,9 +31,7 @@ const Hero = () => {
           </motion.h1>
           <div className="bg-yellow-500 w-[120px] h-[6px]"></div>
           <p className="text-white text-[20px]">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima,
-            amet! Iste laudantium maiores consectetur, impedit quis rem! Iste,
-            rem saepe.
+          A building company that transforms ideas into beautiful, durable spaces, prioritizing quality, precision, and client satisfaction through every project phase.
           </p>
           <motion.div
             initial="hidden"
